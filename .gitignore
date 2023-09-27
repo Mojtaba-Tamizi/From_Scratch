@@ -1,3 +1,7 @@
 /dataset
 /VAE/__pycache__
 /AE/.ipynb_checkpoints
+/GANs/__pycache__
+/GANs/data
+/GANs/dataset
+/GANs/runs
